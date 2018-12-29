@@ -1,3 +1,7 @@
 This is me messing with Git
 
 This is after changes
+
+Staging area is a part of git.
+
+Easier branche
