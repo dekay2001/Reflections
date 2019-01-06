@@ -1,0 +1,23 @@
+Pretty cool to use FC to compare files in console editor.
+
+c12dc49709452bcfb6084b3cc7dc86042cb78ca3
+
+
+commit fa4c6bade4970c282b3870ad16f1bde8164663a9
+changing flattr link
+
+commit 708bcce690e5faa5739bd471507c102ea16b77f7
+pressing down arrow wont cause scroll down anymore
+
+commit 547f4171a82ec6429d002c1acef357aec41d3f17
+refactoring collision detection
+
+commit 71d52709ddc4066e7a79a1d0a412e43429a0cdeb
+removing old readme
+
+$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
